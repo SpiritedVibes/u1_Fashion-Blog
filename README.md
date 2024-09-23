@@ -35,7 +35,6 @@ Faithfully reproduce the mockup in HTML & CSS.
 ![goal](./mock.png)
 
 ### Build Your HTML
-
 1. Create your html boilerplate in the `index.html` file.
 1. Add a new file called `styles.css` and link it to the HTML file.
 1. In the body of your HTML, use [`header`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header), [`main`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main), and [`footer`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer) tags to clearly define the different parts of the page.
